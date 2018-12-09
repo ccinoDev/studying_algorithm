@@ -107,6 +107,7 @@ int main()
         else{
             result = cover(board);
             cout << result << endl;
+            board.clear();
         }
 
     }

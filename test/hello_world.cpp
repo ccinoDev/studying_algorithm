@@ -7,6 +7,6 @@ int main() {
   while(cases--) {
     string name;
     cin >> name;
-    cout << "Hello, " << name << "!" << endl;     
+    cout << "Hello TEST, " << name << "!" << endl;     
   }
 }

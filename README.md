@@ -1,2 +1,2 @@
 # studying_algorithm
-Studying algorithm with Algospot with Jongman book
+Studying algorithm with Algospot and Jongman book

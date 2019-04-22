@@ -20,7 +20,7 @@ int jump2(int y, int x){
 int main(){
     int numTest = 0;
     int result = 0;
-    char cInput;
+    char cInput = 0;
         
     cin >> numTest;
     while(numTest--){
